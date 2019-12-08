@@ -39,7 +39,7 @@ html, body {
     transition: bottom 300ms ease;
     position:relative;
     bottom: 15px;
-    border-top-left-radius:5px;
+    border-top-right-radius:5px;
 }
 
     .main-nav a:hover {
