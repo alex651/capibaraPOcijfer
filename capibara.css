@@ -48,7 +48,7 @@ html, body {
 
 .page-content {
    margin-left: 200px;
-   width: 800px;
+   max-width: 800px;
 }
 
 
@@ -102,6 +102,6 @@ a {
 }
 
 img{
-	float:right;
-	margin: 14px;
+	float: right;
+	margin-left: 10px;
 }
