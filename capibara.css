@@ -6,7 +6,6 @@ html, body {
 
 .page {
   background-color: white;
-  font-family: sans-serif;
   src: url(https://fonts.googleapis.com/css?family=Open+Sans);
   
   }
@@ -53,7 +52,6 @@ html, body {
 
 
   .page-content a {
-    width: 800px;
   }
 
 h1 {
